@@ -33,7 +33,7 @@ img {
 .full-card {
     display: flex;
     flex-direction: row;
-    padding: 35px 150px;
+    padding: 20px 150px;
     gap: 25px;
 }
 .top {
